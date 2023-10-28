@@ -31,7 +31,7 @@ include_once 'conexao.php';
      </h1>
 
     <div class="foto">
-    <a id= "botao" target="_blank" href="bd.php">Clique aqui</a>
+    <a id= "botao" target="_blank" href="bd.php"><br></br>Clique aqui</a>
     </div>
     </form>
              
@@ -63,7 +63,7 @@ include_once 'conexao.php';
         }
                 
         .foto {
-            background-image: url('img/download.jpg');
+            background-image: url('img/medico-campinas-aula-sobre-coracao-01.jpg');
             box-shadow: inset 10px 30px 13px 30px rgb(130, 124, 138);
             background-size: 100%;
             background-repeat: no-repeat;
@@ -89,7 +89,7 @@ include_once 'conexao.php';
             margin-top: 250px;
 
             animation-name: batida;
-            animation-duration: 1s;
+            animation-duration: 2s;
             animation-fill-mode: forwards;
             animation-timing-function: ease;
             animation-direction: normal;

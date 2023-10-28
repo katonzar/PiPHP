@@ -76,7 +76,7 @@ p {
  
 
 .imagem {
-    background-image: url('img/medico-campinas-aula-sobre-coracao-01.jpg');
+    background-image: url('img/coracao-dercilio.webp');
     box-shadow: inset 10px 30px 13px 30px rgb(130, 124, 138);
     background-size: 100%;
     background-repeat: no-repeat;
@@ -102,7 +102,7 @@ p {
     margin-top: 50px;
  }
  .fundo {
-    background-image: url('img/o-sistema-cardiovascular-formado-pelo-coracao-pelos-vasos-sanguineos-5a6af33b14268.webp');
+    background-image: url('img/coracao-dercilio.webp');
     background-size: cover;
     opacity: 0.3;
     width: 1500;
